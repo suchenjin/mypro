@@ -2,7 +2,8 @@ public class CustomerController{
 
   public static void main(String args){
   
-     System.out.println("this is my first github class")
+     System.out.println("this is my first github class");
+     System.out.println("welcome to github");
   }
 
 
